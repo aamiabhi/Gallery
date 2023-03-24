@@ -1,0 +1,36 @@
+.row{
+    height: 500px;
+    width:100%;
+    background-color: brown;
+    background-image: url(sprts.jpeg);
+    display:flex;
+    justify-content:space-evenly;
+    justify-content: space-around;
+}
+.col{
+    height: 450px;
+    width: 300px;
+    margin: 30px 30px 65px;
+    
+}
+.col-1{
+   
+    left: 200px;
+    background-color:black;
+}
+.col-2{
+    
+    left: 500px;
+    background-color:black;
+}
+.col-3{
+    
+    left: 700px;
+    background-color:black;
+}
+.col-4{
+    
+    
+    left: 900px;
+    background-color:black;
+}
